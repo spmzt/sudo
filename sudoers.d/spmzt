@@ -1,0 +1,2 @@
+Defaults        logfile="/var/log/sudo.log"
+spmzt ALL=(ALL:ALL) NOPASSWD: ALL
